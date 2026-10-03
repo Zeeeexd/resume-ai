@@ -1,0 +1,48 @@
+ALEX CHEN
+alex.chen@email.com | +1-555-0192 | LinkedIn: linkedin.com/in/alexchen | GitHub: github.com/alexchen
+
+SUMMARY
+Computer Science student specializing in Artificial Intelligence and Machine Learning, seeking a full-time AI/ML Engineer role. Experienced in building machine learning models, data analysis pipelines, and Python-based backend services.
+
+EDUCATION
+Bachelor of Technology — Computer Science (AI/ML Specialization)
+State University of Technology | 2020 – 2024 | GPA: 3.7/4.0
+Relevant Coursework: Machine Learning, Deep Learning, Statistical Methods, Data Structures, Database Systems, Computer Vision
+
+SKILLS
+Programming: Python, SQL, Java
+ML Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+Tools: Jupyter Notebook, Git, VS Code
+Databases: MySQL, SQLite
+Other: Data Analysis, Statistical Modeling, Feature Engineering
+
+EXPERIENCE
+AI/ML Intern — DataTech Solutions | June 2023 – August 2023
+- Worked on data preprocessing pipelines for customer churn prediction
+- Helped with exploratory data analysis on company datasets
+- Participated in model evaluation and testing tasks
+- Assisted the team with documentation and reporting
+
+PROJECTS
+
+Customer Churn Prediction | Python, Scikit-learn, Pandas
+- Built a classification model to predict customer churn for a telecom dataset
+- Performed data cleaning and feature engineering on the raw data
+- Achieved good accuracy on the test set
+- Used logistic regression and random forest classifiers
+
+Sentiment Analysis Web App | Python, Flask, Scikit-learn
+- Made a web application that performs sentiment analysis on user-provided text
+- Used TF-IDF vectorization for text feature extraction
+- Deployed the application on a local server
+
+Resume Keyword Extractor | Python, NLP
+- Developed a Python script to extract keywords from PDF resumes using basic NLP
+- Used NLTK for text preprocessing
+
+CERTIFICATIONS
+- Machine Learning Basics — Coursera (2023)
+
+ACHIEVEMENTS
+- Dean's List — 2022, 2023
+- 3rd Place — Intra-college Hackathon 2023
